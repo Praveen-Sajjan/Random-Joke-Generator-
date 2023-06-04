@@ -1,0 +1,44 @@
+body{
+    background-color: #8ecae6;
+}
+
+.container{
+    max-width: 800px;
+    padding: 50px, 20px;
+    background-color: #8ecae6;
+    box-shadow: rgba(100, 100, 111, 0.2)
+    0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: .99rem;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: blue; 
+}
+
+h1{
+    font-size: 1.1rem;
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: black;
+}
+
+.new-joke-btn {
+    background-color: #a240bf;
+}
+
+.joke-text {
+    font-size: 1.3rem;
+    margin-bottom: 30px;
+    font-family: monospace;
+}
